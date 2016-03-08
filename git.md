@@ -9,6 +9,6 @@ reset (--soft) (7-digit commit-ID)- go back to earlier commit but keep changes i
 checkout (7-digit commit-ID)- look at previous version of commit
 merge - combine 2 branches into one
 diff - see what has changed
-pull - take from someone else's changes into my repo
-clone - copy forked git to local repo
+pull - download changes from remote repo
+clone (url from GitHub)- copy forked git from remote repo to local repo
 push - send git from local repo to remote repo
